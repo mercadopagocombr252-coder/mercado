@@ -1,0 +1,9 @@
+name = "vakinha-magica"
+compatibility_date = "2026-03-18"
+compatibility_flags = ["nodejs_compat"]
+pages_build_output_dir = "."
+
+[[d1_databases]]
+binding = "DB"
+database_name = "vakinha-magica-db"
+database_id = "COLE_SEU_DATABASE_ID_AQUI"
